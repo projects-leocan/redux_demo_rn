@@ -18,6 +18,14 @@ Step 4 — Adding the Reducer to the App
 Step 5 — Adding Redux to the Screens
 
 
+# Screen
+- Screen contains three buttons,
+1. Increase Count
+2. Decrease Count
+3. Multiply Count
+ 
+on, these buttons click we can call the actions which are define in src/Actions/CounterActions.js file.
+
 # Note
 # What is store?
 The Redux store brings together the state, actions, and reducers that make up your app.
@@ -38,3 +46,4 @@ In this example,
 - create reducer.js file in the src folder, alongside index.js and App.js.
 
 - Every reducer needs some initial state, so we'll add some fake todo entries to get us started. Then, we can write an outline for the logic inside the reducer function:
+
