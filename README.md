@@ -11,11 +11,11 @@
     - npm install redux 
 
 # Steps
-Step 1 — Setting Up the Project and Installing Redux
-Step 2 — Creating a Reducer
-Step 3 — Creating an Action
-Step 4 — Adding the Reducer to the App
-Step 5 — Adding Redux to the Screens
+- Step 1 — Setting Up the Project and Installing Redux
+- Step 2 — Creating a Reducer
+- Step 3 — Creating an Action
+- Step 4 — Adding the Reducer to the App
+- Step 5 — Adding Redux to the Screens
 
 
 # Screen
